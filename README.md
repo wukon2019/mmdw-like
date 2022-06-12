@@ -1,4 +1,8 @@
 
+
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/wukon2019/mmdw-like) 
+
+
 ## likeshop单商户标准版商城演示
 ### 移动端商城
 ![移动端演示.png](https://resource.likeshop.cn/gitee/yszx.png)
