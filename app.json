@@ -1,13 +1,13 @@
 {
-  "name": "Small Sharp Tool",
+  "name": "likeshop1",
   "description": "This app does one little thing, and does it well.",
   "keywords": [
     "productivity",
     "HTML5",
     "scalpel"
   ],
-  "website": "https://small-sharp-tool.com/",
-  "repository": "https://github.com/jane-doe/small-sharp-tool",
+  "website": "https://github.com/wukon2019/mmdw-like/",
+  "repository": "https://github.com/wukon2019/mmdw-like",
   "logo": "https://small-sharp-tool.com/logo.svg",
   "success_url": "/public",
   "scripts": {
